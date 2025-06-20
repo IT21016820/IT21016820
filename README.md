@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on MERN and Spring Boot<br>🌱 I’m currently learning Spring Boot, React Native<br>💬 Ask me about REACT, MERN<br>📫 How to reach me ashanidewmini33@gmail.com
+🔭 I’m currently working on MERN and Next.js<br>🌱 I’m currently learning Java , Python<br>💬 Ask me about REACT, MERN<br>📫 How to reach me ashanidewmini33@gmail.com
 
 
 ## 🌐 Socials:
